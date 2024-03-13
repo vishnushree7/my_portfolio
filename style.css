@@ -1,0 +1,42 @@
+.banner{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url(background1img.jpg);
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+    color: white;
+}
+
+
+
+
+
+
+    .skills-padding{
+        padding: 100px 0;
+    }
+    *{
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      
+    }
+    .vishnu a i{
+        color: aliceblue;
+        gap: 50px;
+        padding: 2px 10px;
+       
+    }
+    .vishnu a i:hover{
+       color: black;
+     
+    }
+   .row{
+    padding: 30px 0;
+   }
+
+   .bg-info a{
+    width: 100px;
+   }
